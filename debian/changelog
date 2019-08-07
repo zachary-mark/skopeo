@@ -1,3 +1,9 @@
+skopeo (0.1.39-1+stretch1) stretch; urgency=medium
+
+  * Build for stretch
+
+ -- Jordan Webb <jordemort@github.com>  Wed, 07 Aug 2019 23:59:00 +0000
+
 skopeo (0.1.39-1~ubuntu19.04~ppa1) disco; urgency=medium
 
   * bump to v0.1.39
@@ -408,7 +414,7 @@ skopeo (0.1.38-1~ubuntu19.04~ppa1) disco; urgency=medium
 
 skopeo (0.1.37-2~ubuntu19.04~ppa6) disco; urgency=medium
 
-  * rebuild - bump release tag 
+  * rebuild - bump release tag
 
  -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Sun, 28 Jul 2019 21:49:03 +0000
 
@@ -517,7 +523,7 @@ skopeo (0.1.36-1~dev~ubuntu18.04~ppa10) bionic; urgency=medium
 
 skopeo (0.1.36-1~dev~ubuntu18.04~ppa9) bionic; urgency=medium
 
-  * conflicts and replaces skopeo-containers 
+  * conflicts and replaces skopeo-containers
   * autobuilt d93a581
 
  -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Mon, 18 Mar 2019 19:13:09 +0000
@@ -543,7 +549,7 @@ skopeo (0.1.36-1~dev~ubuntu18.04~ppa6) bionic; urgency=medium
 
 skopeo (0.1.36-1~dev~ubuntu18.04~ppa5) bionic; urgency=medium
 
-  * containers-common is noarch 
+  * containers-common is noarch
 
  -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Wed, 13 Mar 2019 19:43:16 +0000
 
@@ -555,14 +561,14 @@ skopeo (0.1.36-1~dev~ubuntu18.04~ppa4) bionic; urgency=medium
 
 skopeo (0.1.36-1~dev~ubuntu18.04~ppa3) bionic; urgency=medium
 
-  * containers-common provides skopeo-containers 
+  * containers-common provides skopeo-containers
 
  -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Wed, 13 Mar 2019 18:16:59 +0000
 
 skopeo (0.1.36-1~dev~ubuntu18.04~ppa2) bionic; urgency=medium
 
   * install registries.conf from vendor/github.com/containers/image
-  * autobuilt d93a581 
+  * autobuilt d93a581
 
  -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Wed, 13 Mar 2019 18:01:03 +0000
 
@@ -641,20 +647,20 @@ skopeo (0.1.33-1~dev~ubuntu16.04.2~ppa1) bionic; urgency=medium
 
 skopeo (0.1.32-2~dev~ubuntu18.04~ppa4) bionic; urgency=medium
 
-  * built 187299a 
+  * built 187299a
 
  -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Sun, 04 Nov 2018 14:28:55 -0500
 
 skopeo (0.1.32-2~dev~ubuntu18.04~ppa3) bionic; urgency=medium
 
   * bump release tag for smooth upgrade from xenial
-  * built d6c6c78 
+  * built d6c6c78
 
  -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Thu, 27 Sep 2018 11:30:03 -0400
 
 skopeo (0.1.32-1~dev~ubuntu18.04~ppa2) bionic; urgency=medium
 
-  * built d6c6c78 
+  * built d6c6c78
 
  -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Thu, 27 Sep 2018 11:16:03 -0400
 
@@ -663,4 +669,3 @@ skopeo (0.1.32-1~dev~ubuntu18.04~ppa1) bionic; urgency=medium
   * first build for bionic
 
  -- Lokesh Mandvekar (Bot) <lsm5+bot@fedoraproject.org>  Sun, 12 Aug 2018 06:41:34 +0000
-
