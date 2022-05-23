@@ -10,7 +10,7 @@ Build-Depends: debhelper (>=9),
     libassuan-dev,
     dh-golang,
     golang-go (>= 2:1.11~1~bpo1),
-    btrfs-tools,
+    btrfs-progs | btrfs-tools,
     libglib2.0-dev,
     go-md2man
 Standards-Version: 4.3.0
